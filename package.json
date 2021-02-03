@@ -1,0 +1,9 @@
+{
+  "name": "globally",
+  "version": "0.1",
+  "description": "javascript global variable definition tools",
+  "main": "dist/index.js",
+  "repository": "https://github.com/gmono/globally.git",
+  "author": "gmono",
+  "license": "MIT"
+}
